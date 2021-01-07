@@ -1,0 +1,6 @@
+main.cpp
+a.out
+*.o
+KoalaAction.*
+*.bf
+*.c

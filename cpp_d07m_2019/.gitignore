@@ -1,0 +1,4 @@
+*.o
+vgcore.*
+main.cpp
+a.out

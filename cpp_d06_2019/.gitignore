@@ -1,0 +1,6 @@
+*.o
+my_cat
+my_convert_temp
+*.report
+a.out
+main.cpp
