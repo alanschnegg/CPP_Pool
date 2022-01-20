@@ -1,5 +1,7 @@
 # CPP_Pool
 
+⚠️ Depuis ma piscine, certains exercices ont changé, vous retrouverez la majorité des exercices de la partie Objective-C et CPP mais certains exercices risquent d'avoir disparu ou de nouveaux apparu ⚠️ 
+
 Grade A
 
 CPP Pool / C++ Pool / Piscine cpp / Piscine c++ / Piscine tek2 / Epitech
