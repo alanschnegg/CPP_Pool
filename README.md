@@ -2,7 +2,8 @@
 
 ⚠️ 
 - Depuis ma piscine, certains exercices ont changé, vous retrouverez la majorité des exercices de la partie Objective-C et CPP mais certains exercices risquent d'avoir disparu ou de nouveaux apparu
-- La piscine Haskell étant maintenant dans le même module, les dates ne correspondent pas aux vôtres, par exemple mes day04m et day04a sont pour moi les day02m et day03a, comme aussi votre day05 étant mon day03a. Chercher dans les jours un peu plus loin si le jour ne correspond pas
+- La piscine Haskell étant maintenant dans le même module, les days ne correspondent pas aux vôtres, par exemple mes day04m et day04a sont pour moi les day02m et day03a, comme aussi votre day05 étant mon day03a. Chercher dans les jours un peu plus loin si le jour ne correspond pas
+
 ⚠️ 
 
 Grade A
